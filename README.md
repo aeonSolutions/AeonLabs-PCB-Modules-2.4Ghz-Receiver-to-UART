@@ -1,4 +1,4 @@
-# AeonLabs PCB Shields 2.4Ghz Receiver to UART
+# AeonLabs PCB Modules:  2.4Ghz Receiver to UART
 This is a pcb design module for a 2.4Ghz receiver to UART. Suitable as a add-on design for any other KiCad project.
 
 
