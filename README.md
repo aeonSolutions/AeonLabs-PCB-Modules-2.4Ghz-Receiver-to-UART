@@ -7,10 +7,14 @@ This is a pcb design module for a 2.4Ghz receiver to UART focused on all those H
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART2.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/total)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-PCB-Modules-2.4Ghz-Receiver-to-UART/blob/main/designs/working_yellow.png)  Waiting for first batch from factory. Not tested.
+
+If you already tested this PCB send me a message. Thank you
+
 ## Revisions
 - revision 1.0
  
-
 ## Download options
 Download this repository if you need the KiCad Files or, download the Gerber files in the release section of this repository
 
